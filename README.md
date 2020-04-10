@@ -23,3 +23,9 @@ npm install
 cd app
 npm install
 ````
+To view the frontend:
+````
+cd app
+npm run dev
+````
+`index.html` will be available at http://localhost:8080.
